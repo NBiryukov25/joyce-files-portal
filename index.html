@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Joyce Files Portal</title>
+  <meta name="description" content="Private local portal for browsing the Joyce workspace metadata and review sets." />
+  <link rel="stylesheet" href="assets/styles.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div>
+      <p class="eyebrow">Private Workspace</p>
+      <h1>Joyce Files Portal</h1>
+    </div>
+    <nav aria-label="Primary">
+      <a href="#overview">Overview</a>
+      <a href="#photos">People Photos</a>
+      <a href="#sources">Sources</a>
+      <a href="#github">GitHub</a>
+    </nav>
+  </header>
+
+  <main>
+    <section id="overview" class="hero">
+      <div>
+        <p class="eyebrow">Archive Control Center</p>
+        <h2>Local portal for the Joyce workspace</h2>
+        <p>This portal gives you a browsable front door for the archive metadata, foreground-people photo set, generated indexes, and next-step status. Raw originals are not bundled into the Git repository by default.</p>
+      </div>
+      <div class="stat-grid" id="stats"></div>
+    </section>
+
+    <section class="band" id="photos">
+      <div class="section-head">
+        <div>
+          <p class="eyebrow">Review Set</p>
+          <h2>One- and Two-Person Foreground Photos</h2>
+        </div>
+        <p id="photoSummary"></p>
+      </div>
+      <div class="gallery" id="gallery"></div>
+    </section>
+
+    <section class="band" id="sources">
+      <div class="section-head">
+        <div>
+          <p class="eyebrow">Inventory</p>
+          <h2>Detected Source Types</h2>
+        </div>
+      </div>
+      <div class="two-col">
+        <div>
+          <h3>File Types</h3>
+          <div id="fileTypes" class="list-table"></div>
+        </div>
+        <div>
+          <h3>Message Records</h3>
+          <div id="messages" class="list-table"></div>
+        </div>
+      </div>
+    </section>
+
+    <section class="band" id="github">
+      <div class="section-head">
+        <div>
+          <p class="eyebrow">Repository</p>
+          <h2>GitHub Publishing Plan</h2>
+        </div>
+      </div>
+      <div class="notice">
+        <p><strong>Default safety posture:</strong> the repository contains portal code and metadata only. Original files, extracted text, databases, timelines, analysis folders, and private media are excluded unless you explicitly decide otherwise.</p>
+        <p id="generatedAt"></p>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <span>Joyce Files Portal</span>
+    <span>Local-first private archive interface</span>
+  </footer>
+
+  <script src="data/portal-data.js"></script>
+  <script src="assets/app.js"></script>
+</body>
+</html>

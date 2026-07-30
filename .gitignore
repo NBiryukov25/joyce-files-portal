@@ -1,0 +1,27 @@
+# Keep raw/private archive data out of Git by default
+../*
+!./
+
+# Common generated/private data patterns
+*.sqlite
+*.db
+*.zip
+*.pdf
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.mp4
+*.mov
+*.wav
+*.mp3
+extracted_text/
+archive_database/
+character_bible/
+relationship_portraits/
+timelines/
+video_frame_samples/
+
+# Local clutter
+.DS_Store
+Thumbs.db

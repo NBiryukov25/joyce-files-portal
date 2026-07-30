@@ -4,9 +4,9 @@ Private local web portal for browsing Joyce workspace metadata and review sets.
 
 ## Privacy posture
 
-This repository intentionally excludes raw original archives, extracted text, SQLite databases, timelines, analysis outputs, and private media by default. It contains portal code plus metadata needed for the dashboard.
+This repository now includes the portal plus a self-contained copy of the Joyce archive files under `archive_files/joycetagudinespiritu` for private access. Generated databases, extracted text, timelines, and analysis outputs are still excluded unless deliberately added later.
 
-The local portal can display the foreground-people photo review set through relative paths when opened from the Joyce workspace.
+The portal gallery uses relative links into `archive_files/`, so it works after cloning the private repository.
 
 ## Open locally
 

@@ -2,7 +2,7 @@
   "generated_at": "2026-07-30T08:12:59.017256-04:00",
   "workspace_root": "C:\\Users\\rcrom\\OneDrive\\02_DOCUMENTS_RECORDS\\Joyce_AI_Workspace",
   "portal_root": "C:\\Users\\rcrom\\OneDrive\\02_DOCUMENTS_RECORDS\\Joyce_AI_Workspace\\07_output\\personal_web_portal",
-  "source_policy": "Portal repository contains code and metadata only. Raw Joyce originals are not copied into Git by default.",
+  "source_policy": "This repository contains the portal plus a self-contained copy of the Joyce archive files under archive_files/ for private access.",
   "foreground_people_photos": {
     "generated_at": "2026-07-26T14:40:59.397409-04:00",
     "source_root": "C:\\Users\\rcrom\\OneDrive\\02_DOCUMENTS_RECORDS\\Joyce_AI_Workspace\\joycetagudinespiritu",
@@ -44,844 +44,1124 @@
   },
   "photo_samples": [
     {
-      "url": "../foreground_people_photos/one_person/00001_1058301214701101.gif",
+      "url": "archive_files/joycetagudinespiritu/attachments/gifs/joycetagudinespiritu/gifs/1058301214701101.gif",
       "filename": "1058301214701101.gif",
       "faces": "1",
       "width": "620",
       "height": "330"
     },
     {
-      "url": "../foreground_people_photos/one_person/00002_2088735184688386.gif",
+      "url": "archive_files/joycetagudinespiritu/attachments/gifs/joycetagudinespiritu/gifs/2088735184688386.gif",
       "filename": "2088735184688386.gif",
       "faces": "1",
       "width": "316",
       "height": "492"
     },
     {
-      "url": "../foreground_people_photos/one_person/00003_3285024881586555.gif",
+      "url": "archive_files/joycetagudinespiritu/attachments/gifs/joycetagudinespiritu/gifs/3285024881586555.gif",
       "filename": "3285024881586555.gif",
       "faces": "1",
       "width": "498",
       "height": "277"
     },
     {
-      "url": "../foreground_people_photos/one_person/00004_5963043247090455.gif",
+      "url": "archive_files/joycetagudinespiritu/attachments/gifs/joycetagudinespiritu/gifs/5963043247090455.gif",
       "filename": "5963043247090455.gif",
       "faces": "1",
       "width": "480",
       "height": "360"
     },
     {
-      "url": "../foreground_people_photos/one_person/00005_764819837658621.gif",
+      "url": "archive_files/joycetagudinespiritu/attachments/gifs/joycetagudinespiritu/gifs/764819837658621.gif",
       "filename": "764819837658621.gif",
       "faces": "1",
       "width": "400",
       "height": "224"
     },
     {
-      "url": "../foreground_people_photos/one_person/00006_10212640694403680.jpg",
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/10212640694403680.jpg",
       "filename": "10212640694403680.jpg",
       "faces": "1",
       "width": "800",
       "height": "600"
     },
     {
-      "url": "../foreground_people_photos/one_person/00007_10212679220966820.jpg",
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/10212679220966820.jpg",
       "filename": "10212679220966820.jpg",
       "faces": "1",
       "width": "843",
       "height": "1124"
     },
     {
-      "url": "../foreground_people_photos/two_people/00008_10212685464562906.jpg",
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/10212685464562906.jpg",
       "filename": "10212685464562906.jpg",
       "faces": "2",
       "width": "843",
       "height": "1124"
     },
     {
-      "url": "../foreground_people_photos/one_person/00009_10212717494043623.jpg",
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/10212717494043623.jpg",
       "filename": "10212717494043623.jpg",
       "faces": "1",
       "width": "800",
       "height": "600"
     },
     {
-      "url": "../foreground_people_photos/two_people/00010_10212735544894883.jpg",
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/10212735544894883.jpg",
       "filename": "10212735544894883.jpg",
       "faces": "2",
       "width": "800",
       "height": "600"
     },
     {
-      "url": "../foreground_people_photos/one_person/00011_10212738441687301.jpg",
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/10212738441687301.jpg",
       "filename": "10212738441687301.jpg",
       "faces": "1",
       "width": "800",
       "height": "600"
     },
     {
-      "url": "../foreground_people_photos/one_person/00012_10212748372095555.jpg",
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/10212748372095555.jpg",
       "filename": "10212748372095555.jpg",
       "faces": "1",
       "width": "843",
       "height": "1124"
     },
     {
-      "url": "../foreground_people_photos/one_person/00013_10212762769415479.jpg",
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/10212762769415479.jpg",
       "filename": "10212762769415479.jpg",
       "faces": "1",
       "width": "720",
       "height": "540"
     },
     {
-      "url": "../foreground_people_photos/two_people/00014_10212788677863174.jpg",
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/10212788677863174.jpg",
       "filename": "10212788677863174.jpg",
       "faces": "2",
       "width": "843",
       "height": "1124"
     },
     {
-      "url": "../foreground_people_photos/one_person/00015_10212788682303285.jpg",
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/10212788682303285.jpg",
       "filename": "10212788682303285.jpg",
       "faces": "1",
       "width": "800",
       "height": "600"
     },
     {
-      "url": "../foreground_people_photos/one_person/00016_10212812913229043.jpg",
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/10212812913229043.jpg",
       "filename": "10212812913229043.jpg",
       "faces": "1",
       "width": "843",
       "height": "1124"
     },
     {
-      "url": "../foreground_people_photos/one_person/00017_10212863380330689.jpg",
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/10212863380330689.jpg",
       "filename": "10212863380330689.jpg",
       "faces": "1",
       "width": "720",
       "height": "1280"
     },
     {
-      "url": "../foreground_people_photos/one_person/00018_10212900629421893.jpg",
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/10212900629421893.jpg",
       "filename": "10212900629421893.jpg",
       "faces": "1",
       "width": "720",
       "height": "1280"
     },
     {
-      "url": "../foreground_people_photos/one_person/00019_10212941578925605.jpg",
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/10212941578925605.jpg",
       "filename": "10212941578925605.jpg",
       "faces": "1",
       "width": "843",
       "height": "1124"
     },
     {
-      "url": "../foreground_people_photos/one_person/00020_10212983120644122.jpg",
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/10212983120644122.jpg",
       "filename": "10212983120644122.jpg",
       "faces": "1",
       "width": "720",
       "height": "540"
     },
     {
-      "url": "../foreground_people_photos/one_person/00021_10213076034006898.jpg",
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/10213076034006898.jpg",
       "filename": "10213076034006898.jpg",
       "faces": "1",
       "width": "720",
       "height": "1280"
     },
     {
-      "url": "../foreground_people_photos/two_people/00022_10213142968120209.jpg",
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/10213142968120209.jpg",
       "filename": "10213142968120209.jpg",
       "faces": "2",
       "width": "843",
       "height": "1124"
     },
     {
-      "url": "../foreground_people_photos/one_person/00023_10213150659912499.jpg",
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/10213150659912499.jpg",
       "filename": "10213150659912499.jpg",
       "faces": "1",
       "width": "800",
       "height": "600"
     },
     {
-      "url": "../foreground_people_photos/one_person/00024_10213249350179694.jpg",
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/10213249350179694.jpg",
       "filename": "10213249350179694.jpg",
       "faces": "1",
       "width": "720",
       "height": "540"
     },
     {
-      "url": "../foreground_people_photos/one_person/00025_10213276833106750.jpg",
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/10213276833106750.jpg",
       "filename": "10213276833106750.jpg",
       "faces": "1",
       "width": "843",
       "height": "1124"
     },
     {
-      "url": "../foreground_people_photos/one_person/00026_10213284159649909.jpg",
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/10213284159649909.jpg",
       "filename": "10213284159649909.jpg",
       "faces": "1",
       "width": "843",
       "height": "1124"
     },
     {
-      "url": "../foreground_people_photos/one_person/00027_10213291696518326.jpg",
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/10213291696518326.jpg",
       "filename": "10213291696518326.jpg",
       "faces": "1",
       "width": "800",
       "height": "600"
     },
     {
-      "url": "../foreground_people_photos/one_person/00028_10213305399620895.jpg",
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/10213305399620895.jpg",
       "filename": "10213305399620895.jpg",
       "faces": "1",
       "width": "800",
       "height": "600"
     },
     {
-      "url": "../foreground_people_photos/one_person/00029_10213324277012818.jpg",
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/10213324277012818.jpg",
       "filename": "10213324277012818.jpg",
       "faces": "1",
       "width": "800",
       "height": "600"
     },
     {
-      "url": "../foreground_people_photos/one_person/00030_10213324429776637.jpg",
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/10213324429776637.jpg",
       "filename": "10213324429776637.jpg",
       "faces": "1",
       "width": "843",
       "height": "1124"
     },
     {
-      "url": "../foreground_people_photos/one_person/00031_10213324435896790.jpg",
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/10213324435896790.jpg",
       "filename": "10213324435896790.jpg",
       "faces": "1",
       "width": "843",
       "height": "1131"
     },
     {
-      "url": "../foreground_people_photos/one_person/00032_10213342180100384.jpg",
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/10213342180100384.jpg",
       "filename": "10213342180100384.jpg",
       "faces": "1",
       "width": "800",
       "height": "600"
     },
     {
-      "url": "../foreground_people_photos/one_person/00033_10213404865027468.jpg",
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/10213404865027468.jpg",
       "filename": "10213404865027468.jpg",
       "faces": "1",
       "width": "800",
       "height": "600"
     },
     {
-      "url": "../foreground_people_photos/one_person/00034_10213471969705043.jpg",
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/10213471969705043.jpg",
       "filename": "10213471969705043.jpg",
       "faces": "1",
       "width": "720",
       "height": "1280"
     },
     {
-      "url": "../foreground_people_photos/one_person/00035_10213570544169343.jpg",
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/10213570544169343.jpg",
       "filename": "10213570544169343.jpg",
       "faces": "1",
       "width": "800",
       "height": "600"
     },
     {
-      "url": "../foreground_people_photos/one_person/00036_10213587018941202.jpg",
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/10213587018941202.jpg",
       "filename": "10213587018941202.jpg",
       "faces": "1",
       "width": "720",
       "height": "1280"
     },
     {
-      "url": "../foreground_people_photos/one_person/00037_10213650522368748.jpg",
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/10213650522368748.jpg",
       "filename": "10213650522368748.jpg",
       "faces": "1",
       "width": "720",
       "height": "405"
     },
     {
-      "url": "../foreground_people_photos/two_people/00038_10213832876207480.jpg",
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/10213832876207480.jpg",
       "filename": "10213832876207480.jpg",
       "faces": "2",
       "width": "800",
       "height": "600"
     },
     {
-      "url": "../foreground_people_photos/one_person/00039_10213931112943337.jpg",
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/10213931112943337.jpg",
       "filename": "10213931112943337.jpg",
       "faces": "1",
       "width": "843",
       "height": "1124"
     },
     {
-      "url": "../foreground_people_photos/one_person/00040_10213988676102380.jpg",
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/10213988676102380.jpg",
       "filename": "10213988676102380.jpg",
       "faces": "1",
       "width": "800",
       "height": "600"
     },
     {
-      "url": "../foreground_people_photos/one_person/00041_10214220469337066.jpg",
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/10214220469337066.jpg",
       "filename": "10214220469337066.jpg",
       "faces": "1",
       "width": "720",
       "height": "1280"
     },
     {
-      "url": "../foreground_people_photos/two_people/00042_10214287946143944.jpg",
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/10214287946143944.jpg",
       "filename": "10214287946143944.jpg",
       "faces": "2",
       "width": "800",
       "height": "600"
     },
     {
-      "url": "../foreground_people_photos/one_person/00043_10214287957064217.jpg",
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/10214287957064217.jpg",
       "filename": "10214287957064217.jpg",
       "faces": "1",
       "width": "800",
       "height": "600"
     },
     {
-      "url": "../foreground_people_photos/one_person/00044_10214287958704258.jpg",
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/10214287958704258.jpg",
       "filename": "10214287958704258.jpg",
       "faces": "1",
       "width": "800",
       "height": "600"
     },
     {
-      "url": "../foreground_people_photos/two_people/00045_10214287959224271.jpg",
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/10214287959224271.jpg",
       "filename": "10214287959224271.jpg",
       "faces": "2",
       "width": "800",
       "height": "600"
     },
     {
-      "url": "../foreground_people_photos/two_people/00046_10214287959984290.jpg",
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/10214287959984290.jpg",
       "filename": "10214287959984290.jpg",
       "faces": "2",
       "width": "800",
       "height": "600"
     },
     {
-      "url": "../foreground_people_photos/one_person/00047_10214311149084003.jpg",
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/10214311149084003.jpg",
       "filename": "10214311149084003.jpg",
       "faces": "1",
       "width": "800",
       "height": "600"
     },
     {
-      "url": "../foreground_people_photos/one_person/00048_10214341349318990.jpg",
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/10214341349318990.jpg",
       "filename": "10214341349318990.jpg",
       "faces": "1",
       "width": "800",
       "height": "720"
     },
     {
-      "url": "../foreground_people_photos/one_person/00049_10214447664096793.jpg",
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/10214447664096793.jpg",
       "filename": "10214447664096793.jpg",
       "faces": "1",
       "width": "1067",
       "height": "600"
     },
     {
-      "url": "../foreground_people_photos/one_person/00050_10214633586344733.jpg",
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/10214633586344733.jpg",
       "filename": "10214633586344733.jpg",
       "faces": "1",
       "width": "843",
       "height": "1124"
     },
     {
-      "url": "../foreground_people_photos/two_people/00051_10215073543943398.jpg",
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/10215073543943398.jpg",
       "filename": "10215073543943398.jpg",
       "faces": "2",
       "width": "843",
       "height": "1124"
     },
     {
-      "url": "../foreground_people_photos/two_people/00052_10215073546183454.jpg",
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/10215073546183454.jpg",
       "filename": "10215073546183454.jpg",
       "faces": "2",
       "width": "843",
       "height": "1124"
     },
     {
-      "url": "../foreground_people_photos/two_people/00053_10215073577304232.jpg",
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/10215073577304232.jpg",
       "filename": "10215073577304232.jpg",
       "faces": "2",
       "width": "843",
       "height": "1124"
     },
     {
-      "url": "../foreground_people_photos/one_person/00054_10215073577544238.jpg",
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/10215073577544238.jpg",
       "filename": "10215073577544238.jpg",
       "faces": "1",
       "width": "843",
       "height": "1124"
     },
     {
-      "url": "../foreground_people_photos/two_people/00055_10215119487251952.jpg",
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/10215119487251952.jpg",
       "filename": "10215119487251952.jpg",
       "faces": "2",
       "width": "843",
       "height": "1124"
     },
     {
-      "url": "../foreground_people_photos/one_person/00056_10215123966043919.jpg",
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/10215123966043919.jpg",
       "filename": "10215123966043919.jpg",
       "faces": "1",
       "width": "805",
       "height": "600"
     },
     {
-      "url": "../foreground_people_photos/one_person/00057_10215136201909808.jpg",
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/10215136201909808.jpg",
       "filename": "10215136201909808.jpg",
       "faces": "1",
       "width": "843",
       "height": "1124"
     },
     {
-      "url": "../foreground_people_photos/one_person/00058_10215136265871407.jpg",
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/10215136265871407.jpg",
       "filename": "10215136265871407.jpg",
       "faces": "1",
       "width": "843",
       "height": "1124"
     },
     {
-      "url": "../foreground_people_photos/one_person/00059_10215136278551724.jpg",
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/10215136278551724.jpg",
       "filename": "10215136278551724.jpg",
       "faces": "1",
       "width": "843",
       "height": "1131"
     },
     {
-      "url": "../foreground_people_photos/one_person/00060_10215143140083258.jpg",
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/10215143140083258.jpg",
       "filename": "10215143140083258.jpg",
       "faces": "1",
       "width": "843",
       "height": "1124"
     },
     {
-      "url": "../foreground_people_photos/two_people/00061_1072831323179966.jpg",
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/1072831323179966.jpg",
       "filename": "1072831323179966.jpg",
       "faces": "2",
       "width": "843",
       "height": "1124"
     },
     {
-      "url": "../foreground_people_photos/two_people/00062_1074160586079204.jpg",
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/1074160586079204.jpg",
       "filename": "1074160586079204.jpg",
       "faces": "2",
       "width": "810",
       "height": "600"
     },
     {
-      "url": "../foreground_people_photos/two_people/00063_1086609825177834.jpg",
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/1086609825177834.jpg",
       "filename": "1086609825177834.jpg",
       "faces": "2",
       "width": "480",
       "height": "640"
     },
     {
-      "url": "../foreground_people_photos/one_person/00064_1151308365045216.jpg",
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/1151308365045216.jpg",
       "filename": "1151308365045216.jpg",
       "faces": "1",
       "width": "398",
       "height": "398"
     },
     {
-      "url": "../foreground_people_photos/two_people/00065_1163864333769684.jpg",
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/1163864333769684.jpg",
       "filename": "1163864333769684.jpg",
       "faces": "2",
       "width": "810",
       "height": "600"
     },
     {
-      "url": "../foreground_people_photos/one_person/00066_1192740814917000.jpg",
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/1192740814917000.jpg",
       "filename": "1192740814917000.jpg",
       "faces": "1",
       "width": "843",
       "height": "1124"
     },
     {
-      "url": "../foreground_people_photos/one_person/00067_1278604006208140.jpg",
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/1278604006208140.jpg",
       "filename": "1278604006208140.jpg",
       "faces": "1",
       "width": "843",
       "height": "1124"
     },
     {
-      "url": "../foreground_people_photos/one_person/00068_135003607386871.jpg",
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/135003607386871.jpg",
       "filename": "135003607386871.jpg",
       "faces": "1",
       "width": "843",
       "height": "1124"
     },
     {
-      "url": "../foreground_people_photos/one_person/00069_1472793906427288.jpg",
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/1472793906427288.jpg",
       "filename": "1472793906427288.jpg",
       "faces": "1",
       "width": "480",
       "height": "640"
     },
     {
-      "url": "../foreground_people_photos/one_person/00070_1624846894311533.jpg",
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/1624846894311533.jpg",
       "filename": "1624846894311533.jpg",
       "faces": "1",
       "width": "843",
       "height": "1131"
     },
     {
-      "url": "../foreground_people_photos/one_person/00071_1637674536531842.jpg",
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/1637674536531842.jpg",
       "filename": "1637674536531842.jpg",
       "faces": "1",
       "width": "843",
       "height": "1131"
     },
     {
-      "url": "../foreground_people_photos/one_person/00072_1678244522283860.jpg",
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/1678244522283860.jpg",
       "filename": "1678244522283860.jpg",
       "faces": "1",
       "width": "800",
       "height": "600"
     },
     {
-      "url": "../foreground_people_photos/one_person/00073_1787582878011951.jpg",
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/1787582878011951.jpg",
       "filename": "1787582878011951.jpg",
       "faces": "1",
       "width": "720",
       "height": "1280"
     },
     {
-      "url": "../foreground_people_photos/two_people/00074_1838998792874256.jpg",
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/1838998792874256.jpg",
       "filename": "1838998792874256.jpg",
       "faces": "2",
       "width": "843",
       "height": "1124"
     },
     {
-      "url": "../foreground_people_photos/two_people/00075_183909343569080.jpg",
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/183909343569080.jpg",
       "filename": "183909343569080.jpg",
       "faces": "2",
       "width": "480",
       "height": "640"
     },
     {
-      "url": "../foreground_people_photos/one_person/00076_1842053939207961.jpg",
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/1842053939207961.jpg",
       "filename": "1842053939207961.jpg",
       "faces": "1",
       "width": "843",
       "height": "1124"
     },
     {
-      "url": "../foreground_people_photos/one_person/00077_186380266713010.jpg",
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/186380266713010.jpg",
       "filename": "186380266713010.jpg",
       "faces": "1",
       "width": "750",
       "height": "998"
     },
     {
-      "url": "../foreground_people_photos/one_person/00078_1884795291685365.jpg",
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/1884795291685365.jpg",
       "filename": "1884795291685365.jpg",
       "faces": "1",
       "width": "720",
       "height": "960"
     },
     {
-      "url": "../foreground_people_photos/one_person/00079_1930839113885511.jpg",
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/1930839113885511.jpg",
       "filename": "1930839113885511.jpg",
       "faces": "1",
       "width": "398",
       "height": "398"
     },
     {
-      "url": "../foreground_people_photos/one_person/00080_1959580557444534.jpg",
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/1959580557444534.jpg",
       "filename": "1959580557444534.jpg",
       "faces": "1",
       "width": "398",
       "height": "398"
     },
     {
-      "url": "../foreground_people_photos/two_people/00081_1986541158318356.jpg",
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/1986541158318356.jpg",
       "filename": "1986541158318356.jpg",
       "faces": "2",
       "width": "1067",
       "height": "600"
     },
     {
-      "url": "../foreground_people_photos/one_person/00082_199000187844396.jpg",
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/199000187844396.jpg",
       "filename": "199000187844396.jpg",
       "faces": "1",
       "width": "843",
       "height": "1131"
     },
     {
-      "url": "../foreground_people_photos/one_person/00083_2016824325212806.jpg",
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/2016824325212806.jpg",
       "filename": "2016824325212806.jpg",
       "faces": "1",
       "width": "717",
       "height": "1156"
     },
     {
-      "url": "../foreground_people_photos/two_people/00084_2017571398471432.jpg",
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/2017571398471432.jpg",
       "filename": "2017571398471432.jpg",
       "faces": "2",
       "width": "843",
       "height": "1499"
     },
     {
-      "url": "../foreground_people_photos/one_person/00085_2018918211670084.jpg",
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/2018918211670084.jpg",
       "filename": "2018918211670084.jpg",
       "faces": "1",
       "width": "720",
       "height": "1280"
     },
     {
-      "url": "../foreground_people_photos/two_people/00086_2019661984929040.jpg",
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/2019661984929040.jpg",
       "filename": "2019661984929040.jpg",
       "faces": "2",
       "width": "843",
       "height": "1124"
     },
     {
-      "url": "../foreground_people_photos/one_person/00087_2019844188244153.jpg",
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/2019844188244153.jpg",
       "filename": "2019844188244153.jpg",
       "faces": "1",
       "width": "843",
       "height": "1130"
     },
     {
-      "url": "../foreground_people_photos/one_person/00088_2019850981576807.jpg",
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/2019850981576807.jpg",
       "filename": "2019850981576807.jpg",
       "faces": "1",
       "width": "808",
       "height": "960"
     },
     {
-      "url": "../foreground_people_photos/one_person/00089_2020952114800027.jpg",
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/2020952114800027.jpg",
       "filename": "2020952114800027.jpg",
       "faces": "1",
       "width": "843",
       "height": "1499"
     },
     {
-      "url": "../foreground_people_photos/two_people/00090_2020952621466643.jpg",
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/2020952621466643.jpg",
       "filename": "2020952621466643.jpg",
       "faces": "2",
       "width": "843",
       "height": "1499"
     },
     {
-      "url": "../foreground_people_photos/one_person/00091_2020952628133309.jpg",
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/2020952628133309.jpg",
       "filename": "2020952628133309.jpg",
       "faces": "1",
       "width": "843",
       "height": "1499"
     },
     {
-      "url": "../foreground_people_photos/one_person/00092_2020952634799975.jpg",
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/2020952634799975.jpg",
       "filename": "2020952634799975.jpg",
       "faces": "1",
       "width": "843",
       "height": "1499"
     },
     {
-      "url": "../foreground_people_photos/one_person/00093_2021436434751595.jpg",
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/2021436434751595.jpg",
       "filename": "2021436434751595.jpg",
       "faces": "1",
       "width": "843",
       "height": "1125"
     },
     {
-      "url": "../foreground_people_photos/two_people/00094_2021862124709026.jpg",
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/2021862124709026.jpg",
       "filename": "2021862124709026.jpg",
       "faces": "2",
       "width": "843",
       "height": "843"
     },
     {
-      "url": "../foreground_people_photos/one_person/00095_2021862131375692.jpg",
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/2021862131375692.jpg",
       "filename": "2021862131375692.jpg",
       "faces": "1",
       "width": "843",
       "height": "843"
     },
     {
-      "url": "../foreground_people_photos/one_person/00096_2022767521285153.jpg",
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/2022767521285153.jpg",
       "filename": "2022767521285153.jpg",
       "faces": "1",
       "width": "843",
       "height": "1124"
     },
     {
-      "url": "../foreground_people_photos/one_person/00097_2022767557951816.jpg",
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/2022767557951816.jpg",
       "filename": "2022767557951816.jpg",
       "faces": "1",
       "width": "843",
       "height": "1124"
     },
     {
-      "url": "../foreground_people_photos/one_person/00098_2023290684566170.jpg",
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/2023290684566170.jpg",
       "filename": "2023290684566170.jpg",
       "faces": "1",
       "width": "843",
       "height": "1124"
     },
     {
-      "url": "../foreground_people_photos/one_person/00099_2024204931141412.jpg",
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/2024204931141412.jpg",
       "filename": "2024204931141412.jpg",
       "faces": "1",
       "width": "843",
       "height": "1124"
     },
     {
-      "url": "../foreground_people_photos/one_person/00100_2024588807769691.jpg",
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/2024588807769691.jpg",
       "filename": "2024588807769691.jpg",
       "faces": "1",
       "width": "540",
       "height": "720"
     },
     {
-      "url": "../foreground_people_photos/one_person/00101_2024652661096639.jpg",
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/2024652661096639.jpg",
       "filename": "2024652661096639.jpg",
       "faces": "1",
       "width": "838",
       "height": "1118"
     },
     {
-      "url": "../foreground_people_photos/one_person/00102_2027410604154178.jpg",
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/2027410604154178.jpg",
       "filename": "2027410604154178.jpg",
       "faces": "1",
       "width": "843",
       "height": "1034"
     },
     {
-      "url": "../foreground_people_photos/one_person/00103_2028245067404065.jpg",
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/2028245067404065.jpg",
       "filename": "2028245067404065.jpg",
       "faces": "1",
       "width": "843",
       "height": "1124"
     },
     {
-      "url": "../foreground_people_photos/one_person/00104_2029395670622338.jpg",
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/2029395670622338.jpg",
       "filename": "2029395670622338.jpg",
       "faces": "1",
       "width": "843",
       "height": "843"
     },
     {
-      "url": "../foreground_people_photos/two_people/00105_2029400263955212.jpg",
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/2029400263955212.jpg",
       "filename": "2029400263955212.jpg",
       "faces": "2",
       "width": "843",
       "height": "846"
     },
     {
-      "url": "../foreground_people_photos/one_person/00106_2029400317288540.jpg",
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/2029400317288540.jpg",
       "filename": "2029400317288540.jpg",
       "faces": "1",
       "width": "843",
       "height": "849"
     },
     {
-      "url": "../foreground_people_photos/one_person/00107_2030146907213881.jpg",
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/2030146907213881.jpg",
       "filename": "2030146907213881.jpg",
       "faces": "1",
       "width": "843",
       "height": "1124"
     },
     {
-      "url": "../foreground_people_photos/one_person/00108_2032757360286169.jpg",
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/2032757360286169.jpg",
       "filename": "2032757360286169.jpg",
       "faces": "1",
       "width": "806",
       "height": "960"
     },
     {
-      "url": "../foreground_people_photos/one_person/00109_2034127263482512.jpg",
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/2034127263482512.jpg",
       "filename": "2034127263482512.jpg",
       "faces": "1",
       "width": "803",
       "height": "960"
     },
     {
-      "url": "../foreground_people_photos/one_person/00110_2034127560149149.jpg",
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/2034127560149149.jpg",
       "filename": "2034127560149149.jpg",
       "faces": "1",
       "width": "801",
       "height": "960"
     },
     {
-      "url": "../foreground_people_photos/one_person/00111_2034941023401136.jpg",
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/2034941023401136.jpg",
       "filename": "2034941023401136.jpg",
       "faces": "1",
       "width": "843",
       "height": "1124"
     },
     {
-      "url": "../foreground_people_photos/one_person/00112_2034942176734354.jpg",
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/2034942176734354.jpg",
       "filename": "2034942176734354.jpg",
       "faces": "1",
       "width": "843",
       "height": "1124"
     },
     {
-      "url": "../foreground_people_photos/one_person/00113_2034982693396969.jpg",
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/2034982693396969.jpg",
       "filename": "2034982693396969.jpg",
       "faces": "1",
       "width": "843",
       "height": "1124"
     },
     {
-      "url": "../foreground_people_photos/one_person/00114_2034983330063572.jpg",
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/2034983330063572.jpg",
       "filename": "2034983330063572.jpg",
       "faces": "1",
       "width": "843",
       "height": "1124"
     },
     {
-      "url": "../foreground_people_photos/two_people/00115_2036467009985858.jpg",
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/2036467009985858.jpg",
       "filename": "2036467009985858.jpg",
       "faces": "2",
       "width": "720",
       "height": "1280"
     },
     {
-      "url": "../foreground_people_photos/one_person/00116_2036812576547314.jpg",
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/2036812576547314.jpg",
       "filename": "2036812576547314.jpg",
       "faces": "1",
       "width": "843",
       "height": "1089"
     },
     {
-      "url": "../foreground_people_photos/one_person/00117_2036844103210828.jpg",
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/2036844103210828.jpg",
       "filename": "2036844103210828.jpg",
       "faces": "1",
       "width": "597",
       "height": "597"
     },
     {
-      "url": "../foreground_people_photos/one_person/00118_2043692469192658.jpg",
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/2043692469192658.jpg",
       "filename": "2043692469192658.jpg",
       "faces": "1",
       "width": "839",
       "height": "960"
     },
     {
-      "url": "../foreground_people_photos/one_person/00119_2043693825859189.jpg",
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/2043693825859189.jpg",
       "filename": "2043693825859189.jpg",
       "faces": "1",
       "width": "843",
       "height": "1037"
     },
     {
-      "url": "../foreground_people_photos/one_person/00120_2046171192278119.jpg",
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/2046171192278119.jpg",
       "filename": "2046171192278119.jpg",
       "faces": "1",
       "width": "843",
       "height": "848"
+    },
+    {
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/2046874128874492.jpg",
+      "filename": "2046874128874492.jpg",
+      "faces": "1",
+      "width": "843",
+      "height": "1264"
+    },
+    {
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/2047406495487922.jpg",
+      "filename": "2047406495487922.jpg",
+      "faces": "1",
+      "width": "398",
+      "height": "398"
+    },
+    {
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/2048479408713964.jpg",
+      "filename": "2048479408713964.jpg",
+      "faces": "1",
+      "width": "843",
+      "height": "1150"
+    },
+    {
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/2048479535380618.jpg",
+      "filename": "2048479535380618.jpg",
+      "faces": "1",
+      "width": "843",
+      "height": "1142"
+    },
+    {
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/2051904021704836.jpg",
+      "filename": "2051904021704836.jpg",
+      "faces": "2",
+      "width": "843",
+      "height": "1124"
+    },
+    {
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/2051904038371501.jpg",
+      "filename": "2051904038371501.jpg",
+      "faces": "2",
+      "width": "843",
+      "height": "1124"
+    },
+    {
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/2051904108371494.jpg",
+      "filename": "2051904108371494.jpg",
+      "faces": "1",
+      "width": "843",
+      "height": "1124"
+    },
+    {
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/2054014271493811.jpg",
+      "filename": "2054014271493811.jpg",
+      "faces": "1",
+      "width": "805",
+      "height": "960"
+    },
+    {
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/2054548587917601.jpg",
+      "filename": "2054548587917601.jpg",
+      "faces": "1",
+      "width": "720",
+      "height": "1280"
+    },
+    {
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/2057933664435205.jpg",
+      "filename": "2057933664435205.jpg",
+      "faces": "1",
+      "width": "843",
+      "height": "1124"
+    },
+    {
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/2057933864435185.jpg",
+      "filename": "2057933864435185.jpg",
+      "faces": "1",
+      "width": "840",
+      "height": "1160"
+    },
+    {
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/2058849334343638.jpg",
+      "filename": "2058849334343638.jpg",
+      "faces": "1",
+      "width": "843",
+      "height": "1124"
+    },
+    {
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/2058849527676952.jpg",
+      "filename": "2058849527676952.jpg",
+      "faces": "1",
+      "width": "843",
+      "height": "1124"
+    },
+    {
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/2058849687676936.jpg",
+      "filename": "2058849687676936.jpg",
+      "faces": "2",
+      "width": "843",
+      "height": "1124"
+    },
+    {
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/2060710817490823.jpg",
+      "filename": "2060710817490823.jpg",
+      "faces": "1",
+      "width": "843",
+      "height": "1124"
+    },
+    {
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/2060711110824127.jpg",
+      "filename": "2060711110824127.jpg",
+      "faces": "1",
+      "width": "843",
+      "height": "1124"
+    },
+    {
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/2060711520824086.jpg",
+      "filename": "2060711520824086.jpg",
+      "faces": "1",
+      "width": "843",
+      "height": "1124"
+    },
+    {
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/2060782490816989.jpg",
+      "filename": "2060782490816989.jpg",
+      "faces": "1",
+      "width": "398",
+      "height": "398"
+    },
+    {
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/2062533870641851.jpg",
+      "filename": "2062533870641851.jpg",
+      "faces": "1",
+      "width": "398",
+      "height": "398"
+    },
+    {
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/2062694123959159.jpg",
+      "filename": "2062694123959159.jpg",
+      "faces": "1",
+      "width": "843",
+      "height": "1124"
+    },
+    {
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/2062694143959157.jpg",
+      "filename": "2062694143959157.jpg",
+      "faces": "1",
+      "width": "843",
+      "height": "1124"
+    },
+    {
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/2062736300621608.jpg",
+      "filename": "2062736300621608.jpg",
+      "faces": "1",
+      "width": "843",
+      "height": "1124"
+    },
+    {
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/2064937043734867.jpg",
+      "filename": "2064937043734867.jpg",
+      "faces": "1",
+      "width": "398",
+      "height": "398"
+    },
+    {
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/2065669520328286.jpg",
+      "filename": "2065669520328286.jpg",
+      "faces": "1",
+      "width": "843",
+      "height": "1124"
+    },
+    {
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/2065696530325585.jpg",
+      "filename": "2065696530325585.jpg",
+      "faces": "1",
+      "width": "843",
+      "height": "1124"
+    },
+    {
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/2065697683658803.jpg",
+      "filename": "2065697683658803.jpg",
+      "faces": "1",
+      "width": "843",
+      "height": "1124"
+    },
+    {
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/2065704660324772.jpg",
+      "filename": "2065704660324772.jpg",
+      "faces": "1",
+      "width": "646",
+      "height": "1280"
+    },
+    {
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/2067788013449770.jpg",
+      "filename": "2067788013449770.jpg",
+      "faces": "1",
+      "width": "843",
+      "height": "1125"
+    },
+    {
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/2067788496783055.jpg",
+      "filename": "2067788496783055.jpg",
+      "faces": "1",
+      "width": "398",
+      "height": "398"
+    },
+    {
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/2071717329723505.jpg",
+      "filename": "2071717329723505.jpg",
+      "faces": "1",
+      "width": "843",
+      "height": "1124"
+    },
+    {
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/2071717403056831.jpg",
+      "filename": "2071717403056831.jpg",
+      "faces": "1",
+      "width": "843",
+      "height": "1124"
+    },
+    {
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/2072567166305188.jpg",
+      "filename": "2072567166305188.jpg",
+      "faces": "1",
+      "width": "843",
+      "height": "1124"
+    },
+    {
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/2072567172971854.jpg",
+      "filename": "2072567172971854.jpg",
+      "faces": "1",
+      "width": "843",
+      "height": "1124"
+    },
+    {
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/2073736212854950.jpg",
+      "filename": "2073736212854950.jpg",
+      "faces": "1",
+      "width": "597",
+      "height": "597"
+    },
+    {
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/2074564676105437.jpg",
+      "filename": "2074564676105437.jpg",
+      "faces": "1",
+      "width": "843",
+      "height": "1124"
+    },
+    {
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/2076856332542938.jpg",
+      "filename": "2076856332542938.jpg",
+      "faces": "1",
+      "width": "843",
+      "height": "1124"
+    },
+    {
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/2076856952542876.jpg",
+      "filename": "2076856952542876.jpg",
+      "faces": "1",
+      "width": "843",
+      "height": "1124"
+    },
+    {
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/2076856959209542.jpg",
+      "filename": "2076856959209542.jpg",
+      "faces": "2",
+      "width": "843",
+      "height": "1124"
+    },
+    {
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/2078535432375028.jpg",
+      "filename": "2078535432375028.jpg",
+      "faces": "1",
+      "width": "398",
+      "height": "398"
+    },
+    {
+      "url": "archive_files/joycetagudinespiritu/photos/joycetagudinespiritu/photos/2079000425661862.jpg",
+      "filename": "2079000425661862.jpg",
+      "faces": "1",
+      "width": "843",
+      "height": "1124"
     }
   ],
   "photo_sample_total_available": 344,
@@ -1062,5 +1342,10 @@
       "status": "complete"
     }
   ],
-  "video_rows_total": 44
+  "video_rows_total": 44,
+  "included_archive_files": {
+    "path": "archive_files/joycetagudinespiritu",
+    "file_count": 1289,
+    "bytes": 452386446
+  }
 }
